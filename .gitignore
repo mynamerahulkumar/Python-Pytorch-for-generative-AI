@@ -409,7 +409,7 @@ yarn-error.log*
 # Ignore all .mp4 files
 *.mp4
 *.svg
-*.txt
+
 
 # Virtual environment
 venv/

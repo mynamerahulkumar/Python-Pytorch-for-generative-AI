@@ -435,7 +435,7 @@ logs/
 *.sqlite3
 
 # Data files
-*.csv
+
 *.h5
 *.parquet
 *.feather

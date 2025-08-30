@@ -340,7 +340,7 @@ pip-wheel-metadata/
 # Ignore large training data files
 train_data/
 test_data/
-data/
+# data/
 datasets/
 
 # Temporary files created by ML tools
@@ -353,7 +353,7 @@ logs/
 *.tflite
 
 # Ignore data files from libraries (e.g., from Hugging Face, TensorFlow Datasets)
-data/
+# data/
 downloads/
 
 # Ignore configuration files for specific tools
